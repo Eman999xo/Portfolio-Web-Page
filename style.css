@@ -68,12 +68,7 @@ h2{
   text-decoration: underline
 }
 
-p1{
-  font-family:Quattrocento, sans-serif;
-  color: black;
-  font-size:19px;
-  text-align: center
-}
+
 
 p{
   font-family:Quattrocento, sans-serif;
@@ -101,6 +96,11 @@ h4{
   font-size: 30px;
    text-align: center;
   text-decoration: underline
+  
+}
+
+ol a:hover {
+color:red
   
 }
 
