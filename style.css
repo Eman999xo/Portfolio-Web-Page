@@ -100,8 +100,13 @@ h4{
 }
 
 a:hover {
-color:black
+color:maroon;
+font-family:Quattrocento, sans-serif;
   
+}
+a {
+  font-family:Quattrocento, sans-serif;
+  color:black
 }
 
 
